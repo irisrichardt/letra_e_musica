@@ -10,6 +10,7 @@ python = "^3.12"
 streamlit = "^1.37.1"
 requests = "^2.32.3"
 pywhatkit = "^5.4"
+deep-translator = "^1.11.4"
 
 
 [tool.poetry.group.dev.dependencies]
